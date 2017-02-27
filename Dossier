@@ -1,0 +1,460 @@
+\documentclass{book}
+
+\usepackage[francais]{babel}
+\usepackage{lmodern}
+\usepackage{geometry}
+\usepackage[12pt]{extsizes}
+\geometry{hmargin=2cm,vmargin=2cm}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+\usepackage{url}
+\usepackage{amssymb}
+\usepackage{mathrsfs}
+\usepackage[toc]{glossaries}
+\usepackage{textcomp}
+\usepackage{wrapfig}
+\usepackage{fancyhdr}
+\usepackage{color}
+\bibliographystyle{abbrv}
+\pagestyle{fancy}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\makeglossaries
+\title{L'équilibre chez l'Homme\\ \large{Comment tenons-nous debout ?}}
+\author{Thème : \emph{structure}\\\\Léo \bsc{Gratien}\\Valentin \bsc{K'Dual}\\Matthieu \bsc{Hardeman}\\Kamel \bsc{Yahyaoui}\\}
+
+\let\cleardoublepage\clearpage
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+Nous tenons à exprimer toute notre reconnaissance à Mme Kikudji et Mr Villette pour leur encadrement, orientation dans nos réflexions, leurs aides et conseils sans lesquels nous n’aurions pas pu aboutir un tel projet. Nous les remercions pour l’attention qu’ils ont eu à nous écouter et leur patience pour répondre à toutes nos questions et leur relecture de notre projet tout au long de l’année.
+
+\textcolor{white}{i\cite{ref1}\cite{ref2}\cite{ref3}\cite{ref4}\cite{ref5}\cite{ref6}\cite{ref7}\cite{ref8}\cite{ref9}\cite{ref10}\cite{ref11}\cite{ref12}\cite{ref13}\cite{ref14}\cite{ref15}\cite{ref16}\cite{ref17}\cite{ref18}\cite{ref19}\cite{ref20}\cite{ref21}\cite{ref22}}
+\newpage
+
+\chapter*{Introduction}
+\addcontentsline{toc}{chapter}{Introduction}
+\section*{Contextualisation}
+\addcontentsline{toc}{section}{Contextualisation}
+La notion d'équilibre à été très tardivement théorisée. En effet, le premier ouvrage traitant de l’équilibre, et plus précisément de biomécanique, date de 1680, et se nomme \emph{De Motu Animalium}, écrit par Giovanni Alfonso Borelli. Celui-ci contient la première représentation de la verticalité de gravité du corps humain (rappelant ici la notion de centre de gravité).
+
+Avant lui, Aristote avait aussi écrit un ouvrage du même nom, \emph{De motu animalium}, introduisant les concepts généraux des mouvements des animaux.
+
+Au XXème siècle, cette notion n’était toujours pas clairement défini, André Thomas disait à ce propos en 1940 dans son \emph{Équilibre et équilibration} : « L'équilibre ne peut plus être considéré comme un état de repos quand il s'agit d'un corps dont toutes les parties sont douées d'activité. Si le terme prête à la confusion, mieux vaut le supprimer et modifier la définition. »
+
+Les notions de centre de gravité et d'inertie ont elles été traitées dans les années 1970, et notamment le rapport entre ces deux notions et leur rôle dans la stabilité du corps humain. C'est notamment le rôle des congrès de la \emph{société internationale de posturographie}, aujourd'hui connue sous le nom de la \emph{Société internationale d'étude de la posture et de la marche}. Ces congrès ont débuté en 1971 et existent encore de nos jours.
+
+De plus Isaac Newton, philosophe britannique ayant découvert le phénomène de la gravité, publie un ouvrage \emph{Philosophiæ Naturalis Principia Mathematica} dans lequel il introduit sa théorie et décrit la loi universelle de la gravitation.
+
+En fait, le corps n’est jamais en équilibre total, il ne fait que se stabiliser. Il serait par conséquent plus approprié de parler de la \emph{stabilité} du corps humain.
+
+Aujourd’hui, l’équilibre du corps humain est en grande partie maîtrisé et compris, que ce soit au niveau physique ou biologique. 
+
+\section*{Préambule}
+\addcontentsline{toc}{section}{Préambule}
+Le terme équilibre désigne habituellement l’état d’un corps (corps est ici à prendre au sens physique du terme) au repos. Dans le domaine médical, l’équilibre est la mise en œuvre des différents moyens utilisés par le corps pour maintenir l’équilibre des forces. Autrement dit, il s’agit de la fonction qui permet à l’organisme d’avoir conscience de la position de l’ensemble des constituants du corps humain dans l’espace et de contrôler cette tâche.
+
+Aussi nous nous demanderons comment tenons-nous en équilibre.
+
+Nous étudierons le concept d’équilibre dans son aspect physique pour analyser le maintien en équilibre du corps au travers des diverses informations perçues, avant de conclure notre développement par les troubles de l’équilibre.  
+
+\newpage
+\mainmatter
+\chapter{Le concept d'équilibre}
+\section{Physique et force}
+
+La physique permet d’expliquer le concept d’équilibre chez l’Homme, aussi il faut savoir que la gravité s’exerce sur toutes les parties du corps. Cependant, tout se passe comme si elle était concentrée en un point : le \emph{centre de gravité}.\\
+
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale=0.50]{centre.png}
+\caption{Positionnement du centre de gravité chez l'Homme.}
+\end{center}
+\end{figure}
+
+Ce centre de gravité dépend de la répartition des masses suivant la position du corps. Par exemple, lorsqu'un corps humain est debout, il se situe juste en dessous du nombril. Le centre de gravité se situe sur une ligne verticale qui passe par la surface d’appui. C'est lorsque ce centre ne se situe plus sur la ligne qui passe par la \emph{surface de sustentation} que l’on perd l’équilibre.
+
+Les êtres humains sont presque toujours en mouvement, se balançant en arrière et en avant et d'un côté à l'autre, même lorsqu'ils tentent de rester immobiles. Le centre de gravité n'est donc pas un point défini et se déplace constamment, que le corps soit en mouvement ou au repos.
+Notre corps est en équilibre instable, puisqu'il doit toujours lutter pour garder son centre de gravité au-dessus de sa base, c'est à dire le polygone délimité par la surface des deux pieds. Continuellement, des petites oscillations font varier la ligne d'appui du centre de gravité, perpendiculaire au sol. En effet, on explique ce besoin inconscient de ré axage du centre de gravité par la compensation des forces exercées sur le corps.
+
+Voici un cas particulier permettant de mieux comprendre le principe de centre de gravité. 
+Lorsque l’on est sur un fil suspendu, on effectue de grands mouvements pour se ré axer et garder le centre de gravité à la verticale par rapport à la surface de sustentation, ici très fine puisqu’il s’agit d’un fil. En agitant les bras, on modifie donc la répartition des masses et par conséquent la position du centre de gravité.
+
+
+\begin{figure}
+   \begin{minipage}[c]{0.50\linewidth}
+\includegraphics[scale=0.4]{physique.jpg}
+\caption{Changement de posture au cours de la marche.}
+   \end{minipage} \hfill
+   \begin{minipage}[c]{0.50\linewidth}
+      
+\includegraphics[scale=0.5]{centrea.jpg}
+\caption{Positionnement du centre de gravité chez différentes espèces animales.}
+   \end{minipage}
+\end{figure}
+
+La plupart des animaux se tiennent sur 2 à 4 pattes et disposent d’un centre de gravité plus bas que l’Homme. Ce qui s’explique par une répartition des masses différentes. Un chien se tient sur quatre pattes, sa masse est donc dispersée entre ces quatres membres. L’aire de surface de sustentation s'étend donc entre ses quatre pattes, lui permettant ainsi un meilleur équilibre. Ceci entraîne un certain nombre de modifications au niveau des courbures dorsales et des ligaments. Chez l’homme, il existe 4 courbures (cervicale, dorsale, lombaire et sacrée) alors qu’il n’y en a que 2 chez le gorille.
+
+\section{Réflexe myotatique}
+
+Le réflexe myotatique est la contraction réflexe d’un muscle entraînée par son propre étirement. Ce muscle contracté entraîne donc le relâchement de son antagoniste. Ce principe sera expliqué dans notre expérience n°2.
+
+\begin{wrapfigure}[13]{r}{5.5cm}
+\includegraphics[width=5.5cm]{syn.png}
+\caption{Schéma d'une synapse.}
+\end{wrapfigure}
+Le muscle étiré génère un \emph{message nerveux sensitif} se dirigeant vers la moelle épinière, qui est le centre nerveux de ce réflexe. La contraction de ce muscle est la cause du départ d'un nouveau \emph{message nerveux moteur} partant de la moelle épinière. On utilise ce réflexe pour tester les acteurs du réflexes: à savoir les nerfs, la moelle épinière et les muscles.
+
+Les axones, à savoir les prolongements cytoplasmiques des neurones, conduisent ces messages nerveux de nature électrique qui est constitué de signaux tous identiques appelés \emph{potentiels d'action}. 
+
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale=0.8]{rm.png}
+\caption{Trajet d'un message nerveux sensitif.}
+\end{center}
+\end{figure}
+
+Dans le circuit neutronique du réflexe myotatique, nous retrouvons des synapses que nous distinguons en deux types :
+\begin{itemize}
+\item{Les synapses entre neurones}
+\item{Les synapses entre axones du neurone moteur et une fibre musculaire}
+\end{itemize}
+Ces synapses contiennent toutes deux une fente synaptique et une membrane post-synaptique.
+
+Afin de rendre de compte un peu plus clairement du procédé du réflexe myotatique, nous avons réalisés une expérience. Le sujet s’est fait placer des électrodes sur le triceps rural et sur le jambier antérieur. Puis, à l’aide du marteau à réflexe, on inflige un léger choc sur le tendon d’Achille du sujet afin de pouvoir enregistrer les légers courants électriques lors de la contraction du muscle. Ce que nous observons est que le muscle réagit à un petit coup sur le tendon d'Achille. La photographie des conditions de  l'expérience est dans l'annexe B.\\
+
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale=0.58]{exp1.png}
+\caption{Enregistrement de la tension lors d’un réflexe myotatique au niveau du tendon d’Achille en volt en fonction du temps.}
+\end{center}
+\end{figure}
+
+Le premier enregistrement nous permet de démontrer que lorsque le pied va s’étirer et par conséquent contracter le jumeau, la tension du muscle, mesurée en volt, va passer de $0.0V$ à $0.4V$ en 5 microsecondes. Puis le muscle va se relâcher, et la tension va revenir à $0.0V$. 
+
+Pour conclure cette expérience, les réflexes myotatiques sont impliqués dans le maintien de la posture, ils permettent au corps de rester en équilibre lorsque nous marchons, courons ou portons des charges. La contraction d’un muscle entraîne le relâchement du muscle antagoniste, il y a donc une compensation des forces et permet donc au corps de rester en équilibre, comme vérifié ici.\\
+
+Puis dans un second temps, nous avons effectué une autre expérience mais avec un but similaire : le muscle du triceps rural va s’étirer et va entraîner la contraction, réflexe de ce muscle et va donc provoquer l’extension du pied. De plus, la contraction d’un muscle va entraîner le relâchement de son muscle antagoniste. Les deux ne peuvent pas se contracter en même temps.
+
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale=0.65]{exp2.png}
+\caption{Enregistrement de la tension lors d’une électromyographie au niveau du tibia. L'activité du jumeau se situe en haut et celle du jambier en bas}
+\end{center}
+\end{figure}
+
+On remarque que lorsque le jumeau va être contracté, son muscle antagoniste, le jambier, va quand à lui être décontracté. Et à l’inverse quand le jambier est contracté le jumeau va se décontracter automatiquement. Il y a donc une compensation des forces musculaires qui permet au corps de rester en équilibre.\\
+
+Ce réflexe contribue grandement à la compensation des forces, et par conséquent au maintien de l'équilibre chez l'homme. Nous allons alors essayer dans le chapitre suivant de comprendre par quels moyens le corps effectue cette tâche. 
+ 
+\chapter{Le maintien en équilibre}
+
+L’homme s’équilibre grâce à de nombreuses sources d’informations provenant du corps. Ici nous traiterons les plus importantes, à savoir les informations visuelles, sensorielles et enfin celles provenant du système vestibulaire.
+
+\section{Information visuelle}
+
+\begin{wrapfigure}[17]{r}{5.8cm}
+\includegraphics[width=5.8cm]{vis1.jpg}
+\caption{Schéma des trois couches de cellules dans la rétine.}
+\end{wrapfigure}
+La vision nous fournit des repères visuels identifiant comment une personne est orientée par rapport à d'autres objets. La rétine de l’œil reçoit une image inversée de ce que nous percevons. Elle est composée de trois couches de cellules pour pouvoir ensuite envoyer les rayons lumineux sous forme d’influx nerveux au cerveau. Tout d’abord, les photorécepteurs vont transformer l’énergie lumineuse en énergie électrique (signaux électrochimiques). Ces photorécepteurs désignent un neurone sensoriel sensible à la lumière qui se trouve sur la couche supérieur de la rétine. Il existe deux sortes de photorécepteurs :
+
+\begin{itemize}
+\item{Les \emph{bâtonnets} permettant de reconnaître l’intensité lumineuse. (environ 120 millions sur une rétine)}
+\item{Les \emph{cônes} permettant de reconnaître les couleurs (environ 5 à 7 millions). Il en existe 3 types : les récepteurs de rayons lumineux de nature bleus, verts,  et rouges.}
+\end{itemize}
+
+Ces photorécepteurs sont des récepteurs de stimuli lumineux. Ils émettent des signaux nerveux car ils contiennent un pigment, dans la membrane qui lorsqu’elle est frappée par la lumière, provoque une réaction chimique, une manifestation électrique appelée \emph{potentiel} d'action qui est à l'origine de l'information.
+
+Ensuite, la seconde couche de cellule, appelée cellule bipolaire, rassemble les messages nerveux envoyés par les photorécepteurs et les renvoit à son tour à la $3^{\text{ème}}$ couche.
+Puis la troisième couche, constituée de cellules ganglionnaires, prolongées par des fibres nerveuses, qui se rejoignent de sorte à former le nerf optique. Celui ci traverse la rétine et transmet l'information au cerveau.
+
+Le passage des messages nerveux à travers ces différentes couches se fait par les fibres du nerf optique grâce à des terminaisons synaptiques.
+Enfin, une fois l'image enregistrée au niveau de la rétine, elle est décomposée en message nerveux vers le cerveau.
+
+\section{Information sensorielle}
+
+Le sens du toucher est lui aussi mis à contribution pour nous maintenir en équilibre. En effet,Il y de nombreux récepteurs placés sous la plante des pieds pour savoir ce qu’il en est du contact avec le sol.
+Malgré la décomposition de l'information sensorielle en plusieurs types d'informations, à savoir les 5 sens (à savoir le toucher, l'ouïe, le goût, la vue, et l'odorat), nous nous intéresserons principalement au toucher. En effet les autres types d'informations sont négligeables dans le maintien de notre équilibre. Or ce traitement se manifeste en quatre étapes bien précises :
+\begin{itemize}
+\item{la réception du stimulus,}
+\item{sa modulation,}
+\item{son intégration,}
+\item{son organisation.}
+\end{itemize}
+Le cerveau utilise des sources d’informations (ex : pour savoir la position dans laquelle on se trouve yeux bandés) provenant des muscles. Des récepteurs placés aux niveaux des muscles captent les contractions et articulations : c’est la \emph{proprioception}.
+
+Les informations proprioceptives de la peau, des muscles et des articulations impliquent des \emph{récepteurs sensoriels} qui sont sensibles à l'étirement et à la pression exercée sur les tissus environnants.
+
+Par exemple, une pression accrue se fait sentir dans la partie avant de la plante des pieds lorsqu’une personne se penche en avant. Lors de tout mouvement des jambes, bras ou de n’importe quelles autres parties du corps, les récepteurs sensoriels réagissent en envoyant des impulsions au cerveau. Avec d'autres informations, ces repères de pression aident notre cerveau à déterminer où notre corps est dans l'espace.
+
+Ceux des chevilles indiquent le mouvement du corps ou sa position par rapport à la fois de la surface d'appui et de la qualité de cette surface (par exemple, dure, molle, glissante). Les impulsions sensorielles provenant du cou et des chevilles sont particulièrement importantes. Les indices proprioceptifs du cou indiquent la direction dans laquelle la tête est tournée.
+
+Cependant, les informations concernants la position de la tête sont complémentaires des informations provenants du système vestibulaire.
+
+\section{Information vestibulaire}
+
+Tout d’abord, les informations provenant de l’oreille interne sont les plus importantes concernant la conscience de notre position dans l’espace. En effet, un organe spécifique à l’équilibre y est situé, le \emph{système vestibulaire}.
+
+Cet organe se situe dans l’oreille. Celle-ci est constituée de trois zones : l’oreille externe, l’oreille moyenne, et l’oreille interne. Ici, on s'intéresse à l’oreille interne, qui est composée elle aussi de plusieurs zones. La première, traitant certaines informations relatives à l’audition, se nomme la cochlée (elle prend une forme de spirale). Cette partie de l’oreille interne ne nous sera que très peu utile dans notre objet d’étude. Puis, relié à celle-ci, se situe le le système vestibulaire. 
+
+Cet organe comporte trois \emph{récepteurs vestibulaires}, à savoir les \emph{canaux semi-circulaires}, le sac vestibulaire qui contient le \emph{saccule}, et l'\emph{utricule}. Chacun de ces trois récepteurs ont un rôle différent dans la réception de l’information sur l’équilibre. Ainsi, les canaux semi-circulaires seront sensibles au accélérations circulaires, alors que l’utricule et le saccule réagiront aux accélérations linéaires.
+
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale=0.5]{oreille.png}
+\caption{Anatomie de l'oreille humaine.}
+\end{center}
+\end{figure}
+
+\subsection{Canaux semi-circulaires}
+
+Le rôle que joue les canaux semi-circulaires est primordiale, en effet ces trois canaux semi-circulaires nous informent des accélérations que subit la tête :
+\begin{itemize}
+\item{Le canal \emph{antérieur} (ou supérieur) les mouvements vers l’avant et l’arrière, tel le hochement de tête.}
+\item{Le canal \emph{postérieur} détecte les mouvements vers le haut et le bas. Lorsque par exemple la tête touche les épaules.}
+\item{Le canal \emph{latéral} (ou horizontal) détecte les mouvements vers la gauche et la droite. Comme lorsque l'on dit “non” de la tête.\\}
+\end{itemize}
+
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[scale=0.3]{ointerne.png}
+\caption{Oreille interne : 1. canal antérieur; 2. canal postérieur; 3. canal latéral.}
+\end{center}
+\end{figure}
+
+Leurs tailles dépendent de la locomotion de l'espèce en question. Ainsi les espèces agiles tel que le singes auront un diamètre plus important qu'une autre espèce qui se déplacera plus prudemment.
+
+
+Dans chacun de ces canaux, on trouve un tube, et à leur extrémité, un renflement, ou encore une expansion, faisant deux fois le diamètre du canal nommé \emph{ampoule}. Cette ampoule est composée d’une crête, dite \emph{crête ampullaire}. Il y a des petits cils, reliés à des cellules appelés \emph{cellules ciliées} à l’intérieur de la \emph{cupule}, substance gélatineuse composée d'otolithes (cf. schéma ci-dessous). Ces cellules donnent naissance à de nombreuses fibres nerveuses qui rejoignent le \emph{nerf vestibulaire}. Ces cellules sont sensibles au passage de l’endolymphe.
+
+\begin{wrapfigure}[11]{r}{6cm}
+\includegraphics[width=6cm]{canal.png}
+\caption{Coupe transversale de l'ampoule.}
+\end{wrapfigure}
+L’\emph{endolymphe}, ou \emph{fluide endolymphatique}, est un liquide visqueux dépourvu de cristaux (appelés otolithes). Ce liquide se déplace dans les six canaux Semi-circulaires (en effet, il y en a trois dans chacune des deux oreilles internes) du fait de l'inertie du liquide, et sa position dépend par conséquent de la position dans laquelle se trouve la tête.\\
+
+Nous avons alors voulu modéliser l’endolymphe en mouvement afin de rendre compte de son action dans les canaux semi-circulaires. Pour cela, nous avons procédé à une expérience.
+\begin{wrapfigure}[17]{l}{5cm}
+\includegraphics[width=4cm]{exp3.png}
+\caption{huile d'olive en rotation dans un tube à essai.}
+\end{wrapfigure}
+Dans cette expérience, nous avons modélisé l’endolymphe en mouvement à l’aide d’huile d’olive. \footnote{Afin de vérifier la fidélité de la viscosité de l'huile d'olive, nous avons calculé sa viscosité cinématique $\nu$. On a $\nu = \frac{\mu}{\rho} = \frac{0.84}{920} = 0.913 \times 10^{-5} m^2.s^{-1}$, où $\mu$ est la viscosité dynamique (en $Po$, pour Poise) de l'huile d'olive et $\rho$ sa masse volumique (en $kg/m^3$).}
+
+Ces deux liquides ont une viscosité cinématique assez proche, en effet le premier a pour viscosité cinématique $2 \times 10^{-5} m^2.s^{-1}$, tandis que le second possède une viscosité cinématique de $0.913 \times 10^{-5} m^2.s^{-1}$, soit une différence de $1.087 \times 10^{-5} m^2.s^{-1}$.
+
+Nous avons observés que l’huile d’olive est restée collé aux parois du tubes à essai lorsque celui atteint une vitesse de rotation suffisante grâce au vortex. De plus, de part sa viscosité, l'huile reste collée aux parois du tube à essai lorsque celle-ci n’est plus en mouvement.
+On peut donc conclure, comme l’endolymphe possède une viscosité similaire à l’huile d’olive, que l’endolymphe reste également collée aux parois de la membrane des canaux semi-circulaires lorsque celle-ci atteint une vitesse de rotation assez élevée mais aussi un petit moment après cette rotation. C’est donc ce qui va provoquer des vertiges, des troubles de l’équilibre chez l’Homme.
+\newline
+\newline
+\newline
+\newline
+
+\ \ \ Lors de son déplacement, l’endolymphe va exercer une pression sur la cupule. Les cils à l’intérieur de celle-ci vont alors se courber, et faire réagir les cellules ciliées situées en dessous de celles-ci en émettant un signal électrique. On a alors trois cas de figures:
+\begin{itemize}
+\item{une courbure produisant un codage à fréquence normale}
+\item{une courbure produisant un codage à fréquence élevée, dite « \emph{activation} »}
+\item{une courbure produisant un codage à fréquence faible, dite « \emph{inhibition} »}
+\end{itemize}
+
+Les cils des canaux semi-circulaires non-concernés par le mouvement produisent un signal électrique à fréquence normale. Ces informations sont ensuite transmises au cerveau via les deux nerfs vestibulaires, il y a un nerf vestibulaire par appareil vestibulaire, soit un nerf vestibulaire pour trois canaux semi-circulaires. Ces nerfs, avec les autres nerfs de l’oreille interne, rejoignent le \emph{ganglion vestibulaire}, point de départ pour l’acheminement des information au cerveau.
+
+Notre perception des mouvements de notre tête en trois dimensions dépend finalement de la synthétisation des données provenant des nerfs vestibulaires des six canaux semi-circulaires par les \emph{centre nerveux}. Ceux-ci sont situés plus précisément dans le cervelet.
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.4]{cilsfr.png}
+\caption{Fréquences en fonction de la courbure des stéréocils.}
+\end{center}
+\end{figure}
+
+Si l’ensemble de ces mécanismes fonctionne correctement, alors les signaux reçus doivent être symétriques, à savoir, les impulsions provenant du côté droit doivent être compatibles avec des impulsions provenant du côté gauche.
+
+Dans le cas contraire, des pertes d'équilibre sont ressenties, lorsque, par exemple, des otolithes se glissent dans les canaux vestibulaires: dans ce cas l’oreille interne envoie une information contradictoire par rapport à celles transmises par les yeux et les voûtes plantaires. Ce point est développé dans le chapitre suivant.
+
+\subsection{Saccule}
+
+Le saccule, comme vu précédemment, fait partie des trois récepteurs vestibulaires de l’oreille interne. Il perçoit les accélérations (ou décélérations) linéaires dans le plan vertical, et est par conséquent sensible à la pesanteur.\\
+
+\begin{wrapfigure}[12]{r}{4.5cm}
+\includegraphics[width=4.5cm]{cilsm.png}
+\caption{Courbure des stéréocils.}
+\end{wrapfigure}
+Les deux organes du \emph{sac vestibulaire} ont un fonctionnement similaire. Le saccule est une cavité comprenant une \emph{macula}. Cette macula, à ne pas confondre avec celle présente sur la rétine, est placée verticalement, de sorte à ce que les cellules contenues dans celle-ci soient légèrement inclinées vers le bas (voir figure ci-contre). Le nombre important de cellules ciliées permet un codage et donc une représentation fidèle des accélérations que nous subissons, un individu sain aura une précision de $\pm \frac{1}{2}$°.
+
+Par conséquent, lorsque nous sautons, ou tombons, les cellules ciliées réagissent en se courbant en fonction du mouvement effectué:
+\begin{itemize}
+\item{Lorsque nous sautons, les cellules ciliées se courbent vers le bas sous l’effet de l'apesanteur. Et celles-ci se courbent vers le haut lorsque nous retombons.}
+\item{À l’inverse, lorsque l’on tombe, ces mêmes cellules réagissent et se courbent vers le haut.}
+\end{itemize}
+
+Il existe cependant une différence entre la réception de l’information dans les canaux semi-circulaires et celle des maculas. En effet, les cellules ciliées des maculas sont recouverts par l’épithélium sensoriel, à savoir la plage sensorielle qui contient les récepteurs de l’équilibre, ainsi que des otolithes.
+
+De la même manière que les informations reçues dans les canaux semi-circulaires, les informations sont transmises au ganglion vestibulaire, et sont ensuite acheminées par la \emph{huitième paire de nerfs crâniens} au cervelet. 
+
+\subsection{Utricule}
+
+L'utricule est l’autre organe du sac vestibulaire, et est composé lui aussi d’une macula. Les parois de l’utricule et du saccule sont nommées \emph{épithélium unistratifiées}. La \emph{membrane otolithique} est la couche gélatineuse qui permet de maintenir les organes otolithiques.
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.26]{oto.png}
+\caption{Anatomie de la macula de l'urticule.}
+\end{center}
+\end{figure}
+
+Cette fois, les informations reçues sont celles qui proviennent de mouvements linéaires, lorsque l’on marche, ou que l’on n’est en voiture et qu’elle est en mouvement, par exemple.
+
+\section{La réception de l'information}
+
+Dans ces quatre parties, les informations sont envoyées au cerveau. Ici nous verrons les points communs et les différences concernants cette réception de l’information.
+
+Les informations sont toutes transférées au cerveau via des nerfs. A savoir, l’information visuelle sera transférée via deux \emph{nerfs optiques}. Ce nerf achemine au cortex visuel. Plus précisément, l’information provenant du nerf de l'œil droit vont dans l'hémisphère cérébral gauche et vice versa.
+
+Les informations provenants du système vestibulaire sont elles envoyées au cervelet via la paire de nerfs qui sert aussi à acheminer les informations auditives : la \emph{huitième paire de nerfs crâniens}.
+
+Concernant les informations provenant des récepteurs sensoriels, c’est le système nerveux qui reçoit d’abord les différents messages sensoriels de l’environnement immédiat qui sont perçus par nos différents récepteurs sensoriels. La réception de ce stimulus se fait au niveau périphérique du système nerveux tandis que sa détection se fait au niveau central. Par la suite, l’information reçue est modulée afin de permettre l’intégration et l’organisation de celle-ci en une réponse comportementale en lien avec le stimulus perçu initialement.\\ 
+
+Enfin, ces informations sont interprétés par les cortex respectifs. Ici, l’information visuelle est traitée de différentes manières. En effet le \emph{cortex visuel} est composé d'aires corticales qui ont pour but de traiter les informations visuelles reçues. Cinq aires spécialisées (V1, V2, V3,..) travaillent donc de façon complémentaires pour créer une image nette et précise. L’image est tout d'abord traitée dans le cortex visuel primaire en V1, puis traitée de manière à percevoir les contours, les textures et couleurs en V2, puis les distances et formes en V3, en V4 pour percevoir les objets immobiles, et pour finir, la perception des mouvements en V5. Une lésion située dans ce cortex occipital peut entraîner une cécité ou des hallucinations visuelles. 
+
+\begin{figure}
+\begin{center}
+\includegraphics[scale=1.1]{aire.jpg}
+\caption{Coupe transversale du cerveau.}
+\end{center}
+
+\end{figure}
+C’est donc la somme de ces interprétations qui nous donne un repère visuel dans l’espace. Mais cette information n’est pas suffisante, en effet, lorsque nous marchons les yeux bandés, nous ne sommes pas déséquilibrés.\\
+
+Les zones du cerveau qui traitent les informations vestibulaires sont le \emph{cortex pariétal} et le \emph{cortex insulaire}. Ils sont responsables de l’enregistrement et de l’interprétation de celles-ci.\\
+
+Toutes ces données avec les autres permettent de savoir dans quelle position on est, ainsi que ce qu’il faut corriger pour garder l’équilibre. Cependant, ces sytèmes sont fragiles, et peuvent être facilement déréglés.
+
+\chapter{Les troubles de l'équilibre}
+
+Tout d'abord, les troubles de l’équilibre peuvent avoir des origines multiples mais beaucoup sont dus à un dysfonctionnement de l’oreille interne. Nous traiterons dans cette partie des \emph{vertiges} et de l'\emph{acrophobie}.
+
+\section{Vertige}
+
+Les troubles de l’équilibre se manifestent par des vertiges, ceux-ci peuvent être de natures différentes. Par exemple la sensation que tout tourne autour de soi, d’instabilité ou bien d’ébriété ; et peuvent parfois être accompagnés de signes auditifs (acouphènes, oreilles bouchées, etc.), de nausées ou de vomissements.
+
+L’oreille interne est un organe fragile, et est par conséquent facilement déréglable: les otolithes peuvent se glisser dans les canaux vestibulaires, dans ce cas l’oreille interne envoie une information contradictoire par rapport à celles transmises par les yeux et les voûtes plantaires ou d'autres sources d’informations vu précédemment. Il y a donc une incohérence provoquant trouble, nausée, déséquilibre et donc vertige.
+Lors d’une perte d’équilibre suite à un début de chute, le corps peut y répondre rapidement grâce au réflexe myotatique.
+
+\section{Acrophobie}
+
+L’acrophobie, plus connu sous le nom de peur du vide, est une phobie à part entière. Elle peut venir d’un traumatisme ancien, ou bien plus simplement de la même manière que des vertiges, d'une incohérence de l’information perçue.
+
+Nous sommes habitués à voir le sol à moins de 2 mètres. Au bord d’une falaise nous le voyons à plusieurs dizaines voir centaines de mètres. Ce qui est inhabituel et donc incohérent avec les informations fournies par les capteurs de la voûte plantaire qui sont habitués à une plus grande proximité du sol. Le problème est que les analyses sont faites par le cervelet qui se situe non loin du centre des émotions. Cette analyse parasite les émotions, génère une peur et perturbe le fonctionnement du cervelet qui a du mal à analyser la situation.
+
+\section{Solutions}
+
+Il n'existe pas de traitements généraux concernant l'acrophobie. En effet, les personnes qui en sont atteintes doivent recevoir un traitement adapté à l'origine de la phobie et à leur degré d'acrophobie. 
+
+Cependant, une solution générale est souvent proposée lorsque l'on est victime de vertiges. Celle-ci consiste à fixer un point au loin. En effet, cela permet au cerveau de minimiser la réception d'informations visuelles, et par conséquent l'incohérence d'interprétation avec les autres types d'informations reçues. Les effets des vertiges ne disparaissent pas tout de suite pour autant, cela ne relève plus que partiellement de cette incohérence.
+
+\chapter*{Conclusion}
+\addcontentsline{toc}{chapter}{Conclusion}
+Pour conclure nous avons traité le principe d’équilibre du corps humain. Ce phénomène est dû en partie grâce au centre de gravité proposant un maintien en équilibre avec l’apport des différentes informations qu’elles soient visuelle sensorielle ou bien vestibulaire mais également de la voûte plantaire. Par conséquent la réception de ces différentes informations est également importante dans le cas où dès lors que le cerveau perçoit ces informations faussées des troubles de l’équilibre se constatent, matérialisés par des vertiges et pertes d’équilibre nous montrant ainsi que notre équilibre à ses limites. Ces informations sont, comme précédemment vu, les plus importantes concernant notre perception de l’équilibre. 
+En revanche, nous avons conscience que l’équilibre du corps humains ne s’arrête pas à ces quatres points, et dépend de nombreux autres facteurs externes, cependant les principaux facteurs ont été traités dans ce TPE.
+
+\appendix
+\chapter{Synthèses personnelles}
+\section{Kamel Yahyaoui}
+Les élèves de premiers sont amenés à réaliser un TPE (travaux personnalisés encadrés) en groupe de 3 ou 4 élèves durant lequel ils sont amenés à développer un sujet choisi reposant sur deux dominantes : les sciences physiques et les sciences de la vie et de la Terre.\\
+
+Aussi j’ai décidé de me mettre en groupe avec Léo Gratien, Valentin K’dual et Matthieu Hardeman, camarades avec lesquels je m’entends très bien. Le choix du sujet fut assez compliqué, nous nous sommes orientés au début sur l’intelligence artificielle or ce sujet ne correspondait pas aux critères voulus, finalement après avoir recherché beaucoup d’idées de sujet sur internet et différents livres, nous avons porté notre choix sur l’équilibre du corps humain avec comme problématique « Comment tenons-nous en équilibre ? ». Les premières séances furent consacrées à trouver une ébauche pour le début partielle qui évoluera au cours de l’année. Aussi nous avons commencé à traiter du fonctionnement de l’organisme à se maintenir en équilibre avec notamment l’oreille interne. De là nous avons pu découvrir de nombreux éléments permettant de répondre à notre problématique et plus les analyses s’ajoutaient à notre développement plus le plan se précisait. Et c’est là que j’ai commencé à comprendre le rôle de la cohésion de groupe lorsqu’il a fallu organiser les idées et vérifier que toutes les informations que nous trouvions étaient vraies ou non. Mes camarades m’ont bien aidé, cette aide était réciproque lorsqu’ils en avaient besoin ainsi nous arrivions à trier les éléments de réponse pour aboutir à notre résultat final.\\
+
+Nous avons eu la possibilité de nous voir en dehors des heures de TPE pendant les vacances afin de peaufiner notre travail car notre organisation et notre répartition des tâches furent mal gérées. Ce TPE a été pour moi très enrichissant j’ai pu découvrir beaucoup de chose sur l’équilibre du corps humain car au départ je ne connaissais pas grand chose sur ce sujet, j'ai également pu améliorer mon travail de recherches et de mise en lien de document, ce qui est essentiel dans n'importe quelle matière que ce soit. La réalisation de ce TPE m’est très chère, mes camarades et moi y avons consacré beaucoup de temps nous espérons ainsi être récompensé de la plus juste des manières. Je n’oublierai jamais cette expérience qui fut un projet réalisé sur l’ensemble de l’année et voilà que tout se termine.
+\newpage
+\section{Matthieu Hardeman}
+Les élèves de premières scientifique doivent produire tout au long de l’année un TPE (Travaux Personnels Encadrés) par groupe de trois ou quatre élèves. Les TPE consistent à réaliser un travail alliant les matières de science physique et de science et vie de la Terre qui sont les matières principales de notre filière.
+
+	Notre groupe est composé de Léo Gratien, Kamel Yahyaoui et Valentin K’Dual, groupe avec lequel bonne ambiance rimait avec travail. Le choix du sujet fût assez complexe, en effet nous avons eu plusieurs idées de sujet mais celles-ci ne pouvait être réalisable pour différentes raisons. Puis notre choix s’est porté sur le sujet suivant : “L’équilibre du corps humain” avec pour problématique “Comment tenons-nous en équilibre ?”. Au tout début, nous cherchions les différents facteurs qui intervenaient dans ce sujet tels que le centre de gravité, l’oreille interne et d’autres éléments de recherche présent dans notre TPE. De plus, chaque élément de réponse trouvés nous a permis de peaufiner notre plan.
+	
+	Au cours de ce TPE, j’ai remarqué que le travail de groupe était essentiel, d’autant plus pour un projet de cette envergure. Mes camarades m’ont apporté une vision différente sur certains éléments de réponses que j’avais du mal à interpréter, d’ailleurs cette aide fût réciproque.
+	
+	A l’avenir, si je devais retravailler sur un projet comme celui-ci, j’améliorerai la répartition des tâches qui fût peut être mal organisé au début. Mais nous avons quand même pu éviter ce désagrément en se voyant hors-cours.
+	Au cours de ce TPE, j’ai appris à affiner ma qualité de recherche mais aussi développer ma capacité à travailler en groupe et améliorer mon esprit de synthèse. De plus, ce travail m’a donc permis de comprendre comment le corps humain tenait en équilibre. Ce TPE fût une très bonne expérience pour moi, j’ai pris beaucoup de plaisir à travailler dessus.
+\newpage
+\section{Léo Gratien}
+C’est dans le cadre des TPE, Travaux Personnels Encadrés liant SVT et physique-chimie, qu’avec Valentin, Kamel, et Matthieu, nous avons réalisés ce projet.
+
+Nous avons mis plus de deux semaines à trouver notre sujet, à savoir, l’équilibre. Alors que nous étions avions choisi l’intelligence artificielle dès la première semaine, Mme Kikudji et M. Villette ont jugé ce sujet trop risqué, en vue de la grandeur de ce champ de recherche. C’est Matthieu qui a trouvé notre sujet actuel, d'abord sous la problématique pourquoi ne tombons nous pas ?
+Il a cependant été compliqué de trouver la problématique adéquate, car l'équilibre étant un sujet recouvrant de nombreux domaines, nous devions en  trouver une qui corresponde à tous et à tout ces domaine.
+Nous avons alors aboutis sur la problématique: comment tenons nous en équilibre ?\\
+
+
+Ce qui nous a permis d'être organisé dès le début du projet, et tout au long de celui-ci, est la façon dont le contenu a pu être modifié et stocké. Cependant, malgré cette optimisation de temps, l'organisation au sein du sujet et de la recherche n’a pas été bien répartis entre les membres du groupe. 
+
+En effet, l’équilibre étant un sujet vaste, je me suis rendu compte que les mécanismes de l’équilibre n'était pas clairement explicités. De plus, les seuls livres, thèses, ouvrages, et analyses disponibles en ligne sur l'équilibre du corps humain étaient assez difficiles à trouver. Par exemple, ceux que j'ai trouvé étaient soit en anglais (Physics of the Human Body, I. Herman), soit trop spécifiques à un domaine exploité dans notre TPE (thèse de Anne Charpiot). 
+	Cette difficulté me permet alors aujourd'hui d’être plus efficace dans mes recherches sur internet concernant un sujet.
+
+Puis vient 
+ 
+\newpage
+\section{Valentin K'Dual}
+\newpage
+\chapter{Expérience}
+
+\begin{wrapfigure}[1]{r}{14cm}
+\includegraphics[width=14cm]{molet.png}
+\caption{Électrodes fixés sur les jumeaux de Matthieu durant les expériences sur le réflexe myotatique.}
+\end{wrapfigure}
+
+\chapter{Glossaire}
+\noindent
+\textbf{Acrophobie} \ Peur extrême et irrationnelle des hauteurs.\\
+\textbf{Ampoule} \ Élargissement à l'extrémité de chaque canal semi-circulaire, contenant les récepteurs sensoriels sensibles aux mouvements de rotation de la tête.\\
+\textbf{Biomécanique} \ Domaine situé à la frontière entre la mécanique physique et les sciences biologiques du vivant.\\
+\textbf{Canaux semi-circulaires} \ Tubes semi-circulaires interconnectés, au nombre de trois, situées dans l'oreille interne. situés dans trois plans (sagittale, frontale, et transversale) et occupent la plus grande partie de celle-ci. Ils forment une boucle incomplète qui varient de 6,5 à 8 mm de diamètre. Ils s'ouvrent dans l'utricule par leurs extrémités, dont l'une dilatée est dite « ampullaire ».\\
+\textbf{Cellules ciliées} \ Cellules des épithéliums sensoriels de l'oreille interne. Celles de la cochlée répondent aux vibrations sonores, tandis que celles du vestibule répondent aux accélérations, en particulier celles qui sont liées aux déplacements de la tête. La stimulation des cellules ciliées déclenche celle du nerf vestibulaire qui transmet l’influx nerveux au cerveau.\\
+\textbf{Centre de gravité} \ Appelé G, le centre de gravité est le point d'application de la résultante des forces de gravité ou de pesanteur.\\
+\textbf{Cervelet} \ Structure cérébrale postérieure située sous le cerveau. Comprend une portion médiane, le vermis et deux lobes latéraux ou hémisphères cérébelleux. Il contrôle l'équilibre et coordonne la motricité.\\
+\textbf{Cerveau} \ Élément principal du système nerveux central.\\
+\textbf{Stéréocils} \ Groupe de fines extensions de la membrane plasmique à l'apex des cellules sensorielles.\\
+\textbf{Cochlée} \ Cavité osseuse spiralée et conique (deux fois plus petite qu’un pois cassé). Elle abrite l’organe spiral (ou organe de Corti), le récepteur de l’audition.\\
+\textbf{Crête ampullaire} \ Plages de cellules ciliées des ampoules des canaux semi-circulaires. Leurs cellules sensorielles sont stimulées mécaniquement lors des rotations de la tête.\\
+\textbf{Cupule} \ Structure gélatineuse coiffant la crête ampullaire. Son déplacement stimule les cellules ciliées.\\
+\textbf{Endolymphe} \ Fluide visqueux newtonien qui se déplace dans un sens donné dans les canaux semi-circulaire en fonction des déplacements effectués par la tête.\\
+\textbf{Équilibre (au sens d’un être humain)} \ État d'un être qui maîtrise sa position et ses mouvements, qui ne tombe pas.\\
+\textbf{Équilibre (au sens physique)} \ État de repos, position stable d'un système obtenus par l'égalité de deux forces.\\
+\textbf{Force} \ Une force désigne, en physique, l'interaction entre deux objets ou systèmes, une action mécanique capable d'imposer une accélération induisant la modification du vecteur vitesse.\\
+\textbf{Ganglion vestibulaire} \ Siège de l'affrètement des corps cellulaires des fibres nerveuses.\\
+\textbf{Hallucination} \ Vision ou audition de quelque chose que personne d'autre ne voit ou n'entend à part la personne qui le décrit.\\
+\textbf{Macula} \ Plage de cellules ciliées de l'utricule et du saccule. Les cellules sensorielles sont stimulées mécaniquement lors des déplacements de la tête.\\
+\textbf{Nerf optique} \ Groupe de fibres nerveuses qui transmettent des messages des yeux au cerveau.\\
+\textbf{Nerf utriculaire, sacculaire} \ Nerf qui véhicule les informations de l'utricule et du saccule au ganglion vestibulaire.\\
+\textbf{Nerf vestibulo-cochléaire} \ Nerf qui véhicule les informations de l’oreille interne au cerveau.\\
+\textbf{Oreille externe} \ organe comprenant le pavillon qui capte et concentre les ondes sonores, le canal auditif externe, par lequel transitent les ondes sonores, ainsi que le tympan qui vibre sous l'effet de ces ondes.\\
+\textbf{Oreille interne} \ L'oreille interne est la partie de notre corps qui assure l'équilibre ; ce rôle est plus précisément assuré par un organe sensoriel, l'appareil vestibulaire. L’oreille interne est aussi appelée labyrinthe, étant donnée sa forme compliquée. Sa situation dans l'oreille protège les récepteurs qu’elle abrite.\\
+\textbf{Oreille moyenne} \ C'est un organe de transmission des vibrations sonores du tympan à l'oreille interne. Elle comprend  la cavité du tympan (chambre contenant de l'air), ainsi que la chaîne des osselets (marteau, enclume et étrier).\\
+\textbf{Organe otolithique} \ Ils permettent la « sensation » de gravité et la détection des mouvements d'accélération linéaire et de la gravité grâce au mouvement des macules qui baignent dans le liquide endolymphe, faisant lien avec les cellules ciliées.\\
+\textbf{Photorécepteur} \ Cellule qui peut, grâce à leur capacité d'adaptation, répondre à de très faibles intensités lumineuses arrivant dans l'œil. Elles existent sous deux formes, les cônes, (5-10\% des photorécepteurs) et les les bâtonnets, plus lents et plus grands.\\
+\textbf{Proprioception} \ Perception, consciente ou non, de la position des différentes parties du corps.\\
+\textbf{Récepteur sensoriel} \ Organe permettant la transformation d'un stimulus auditif, gustatif, olfactif, tactile ou visuel en information nerveuse, celle-ci étant ensuite transmise au cerveau.\\
+\textbf{Réflexe myotatique} \ Contraction réflexe d’un muscle déclenché par son propre étirement. C’est le produit d’une circulation incessante de messages de nature électrique dans les fibres nerveuses.\\
+\textbf{Saccule} \ Organe situé dans l’oreille interne permettant la perception des positions et des accélération linéaire de la tête (dans le plan sagittal), étant ainsi sensible à la pesanteur.\\
+\textbf{Surface de sustention} \ Surface sur laquelle la projection orthogonale du centre de gravité d'un solide sur le sol, ou sur un support, doit se trouver pour garantir l'équilibre.\\
+\textbf{Système vestibulaire (ou appareil vestibulaire)} \ Le système vestibulaire est un organe sensoriel barosensible, situé dans l'oreille interne, qui contribue à la sensation de mouvement et à l'équilibre chez la plupart des mammifères.\\
+\textbf{Trouble de l’équilibre} \ Problème lié à l'oreille interne et au cervelet qui cause une instabilité chez la personne.\\
+\textbf{Utricule} \ Organe situé dans l’oreille interne permettant la perception des positions et des accélération linéaire de la tête (dans le plan transversal).\\
+\textbf{Viscosité cinématique} \ quotient de la viscosité dynamique par la masse volumique du fluide, exprimée en $m.s^{-1}$.\\
+\textbf{Viscosité dynamique} \ Grandeur physique qui caractérise la résistance à l'écoulement laminaire d'un fluide incompressible. Elle est exprimée en pascal-seconde $Pa.s$ ou en $kg/(m.s)$.\\
+
+
+\bibliography{bli}
+\textbf{\\\\Note:}\\
+Les acronymes suivants représentent la nature des documents ci-dessus.
+\begin{itemize}
+\item{\textbf{LI} \ Livre imprimé}
+\item{\textbf{SW} \ Site web}
+\item{\textbf{LN} \ Livre numérique en ligne}
+\end{itemize}
+
+
+\end{document}
