@@ -1,0 +1,171 @@
+gyfuyuyj
+
+@book{ref1,
+author = {M. JUBAULT-BREGLER},
+title = {SVT Terminale S},
+year = {2012},
+publisher= {Nathan},
+note={\textbf{LI}}
+}
+
+@misc{ref2,
+title={\emph{Comment intervient le cerveau pour nous tenir debout?}},
+author={Futura-sciences},
+month={jun},
+year={2012},
+note={\url{http://forums.futura-sciences.com/biologie/547969-intervient-cerveau-tenir-debout.html}, \textbf{SW}}
+}
+
+@misc{ref3,
+title={\emph{Réflexes myotatiques et réflexes de flexion}},
+author={Chez-Alice},
+year={2010},
+note={\url{http://pst.chez-alice.fr/myotatiq.htm}, \textbf{SW}}
+}
+
+@misc{ref4,
+title={\emph{L'oreille interne}},
+author={RAYMOND, Jacqueline},
+year={2007},
+note={\url{http://www.neuroreille.com/levestibule/chapa/f_parents-chapa.htm}, \textbf{SW}}
+}
+
+@misc{ref5,
+title={\emph{Quel est le rôle de l'oreille interne dans notre équilibre ?}},
+author={e-monsieur},
+year={2011},
+note={\url{http://systeme-auditif.e-monsite.com/}, \textbf{SW}}
+}
+
+@misc{ref6,
+title={\emph{The Human Balance System}},
+author={WATSON, Mary Ann},
+year={2016},
+note={\url{https://vestibular.ong/understanding-vestibular-disorder/human-balance-system}, \textbf{SW}}
+}
+
+@misc{ref7,
+title={\emph{Équilibrioception}},
+author={Wikipédia},
+month={décembre},
+year={2016},
+note={\url{https://fr.wikipedia.org/wiki/Equilibrioception}, \textbf{SW}}
+}
+
+@misc{ref8,
+title={\emph{Voyage au centre de l'audition}},
+author={PUJOL, Rémy},
+month={décembre},
+year={2015},
+note={\url{http://www.cochlea.eu}, \textbf{SW}}
+}
+
+@misc{ref9,
+title={\emph{Histoire de la Posturologie}},
+author={GAGEY, Pierre-Marie},
+year={2012},
+note={\url{http://ada-posturologie.fr/HistoireStabilometrie.htm}, \textbf{SW}}
+}
+
+@misc{ref10,
+title={\emph{Le réflexe myotatique}},
+author={Kartable},
+year={2017},
+note={\url{https://www.kartable.fr/terminale-s/svt/specifique/chapitres-199/le-reflexe-myotatique/cours/le-reflexe-myotatique/19361}
+, \textbf{SW}}}
+
+@misc{ref11,
+title={\emph{Oreille interne: les récepteurs de l’équilibre et de la posture}},
+author={Notre temps},
+month={oct},
+year={2014},
+note={\url{http://www.notretemps.com/sante/videos/oreille-interne-recepteurs-equilibre-posture,i42675}, \textbf{SW}}
+}
+
+
+@misc{ref12,
+title={\emph{Proprioception : l'oreille interne}},
+author={COLLET, Christian},
+month={jul},
+year={2014},
+note={\url{https://www.youtube.com/watch?v=vTZYCDKT5Wc}, \textbf{SW}}
+}
+
+@misc{ref13,
+title={\emph{Les macules otolithiques}},
+author={NeurOreille},
+year={2006},
+note={\url{http://www.neuroreille.com/levestibule/chapb/b2/f_accueil-chapb2.htm}, \textbf{SW}}
+}
+
+@misc{ref14,
+title={\emph{Le ganglion vestibulaire ou ganglion de Scarpa}},
+author={NeurOreille},
+year={2006},
+note={\url{http://www.neuroreille.com/levestibule/chapd/c_accueil-chapd.htm}, \textbf{SW}}
+}
+
+@misc{ref15,
+title={\emph{Macula}},
+author={AquaPortail},
+month={décembre},
+year={2011},
+note={\url{https://www.aquaportail.com/definition-2693-macula.html}, \textbf{SW}}
+}
+
+@misc{ref16,
+title={\emph{Vertige ou peur du vide, ne pas confondre…}},
+author={Destination santé},
+month={décembre},
+year={2013},
+note={\url{https://destinationsante.com/vertige-ou-peur-du-vide-ne-pas-confondre.html}, \textbf{SW}}
+}
+
+@misc{ref17,
+title={\emph{Viscosité cinématique}},
+author={Wikipédia},
+month={oct},
+year={2016},
+note={\url{https://fr.wikipedia.org/wiki/Viscosite_cinematique}, \textbf{SW}}
+}
+
+@misc{ref18,
+title={\emph{Huile d'olive}},
+author={Wikipédia},
+month={feb},
+year={2017},
+note={\url{https://fr.wikipedia.org/wiki/Huile_d'olive}, \textbf{SW}}
+}
+
+@book{ref19,
+author = {HERMAN, Irving},
+title = {Physics of the Human Body},
+month = {jan},
+year = {2016},
+publisher= {Springer},
+note={\url{http://bit.ly/2myV05b} (26 février 2017), \textbf{LN}}
+}
+
+@book{ref20,
+author = {BORELLI, Giovanni Alfonso},
+title = {De Motu Animalium},
+year = {1743},
+publisher= {Springer},
+note={\url{http://gallica.bnf.fr/ark:/12148/bpt6k512312} (26 février 2017), \textbf{LN}}
+}
+
+@book{ref21,
+author = {CHARPIOT, Anne},
+title = {Modèle tridimensionnel par éléments finis d'un canal semi-circulaire de l'oreille interne humaine},
+year = {2010},
+publisher= {Aucun éditeur},
+note={\url{http://scd-theses.u-strasbg.fr/2187/01/CHARPIOT_Anne_2010.pdf} (26 février 2017), \textbf{LN}}
+}
+
+@book{ref22,
+author = {NEWTON, Isaac},
+title = {Philosophiae naturalis principia mathematica},
+year = {1687},
+publisher= {Aucun éditeur},
+note={\url{http://bit.ly/2lIVQyx} (26 février 2017), \textbf{LN}}
+}
